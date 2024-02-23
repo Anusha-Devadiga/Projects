@@ -1,0 +1,24 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-image: url('IMG-20220821-WA0003.jpg');
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+
+.button7 {
+    border: none;
+    outline: none;
+    height: 40px;
+    font-size: 16px;
+    color: #fff;
+    background-color: red;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .3s ease-in-out;
+}
+
+ .button7:hover {
+        background-color: green;
+    }
